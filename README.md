@@ -21,6 +21,9 @@ Projeto desenvolvido durante a imersão "Desafio da Programação do Zero" feita
 </div>
 </br>
 
+![image](https://github.com/liviaportela/projeto-kenzie/assets/115835353/67cb9612-a979-41e8-a763-997168653a0f)
+![image](https://github.com/liviaportela/projeto-kenzie/assets/115835353/f4433f85-6f14-4305-946d-0288a31fb760)
+![image](https://github.com/liviaportela/projeto-kenzie/assets/115835353/36c0d2b7-27d9-4397-8825-61189af0f4d4)
 
 #
 
